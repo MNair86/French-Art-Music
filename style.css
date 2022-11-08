@@ -1,0 +1,287 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 2000vh;
+    width: 100vw;
+    background-color: #407076;
+
+   
+}
+
+.inner-container-one{
+    height: 1000vh;
+    width: 100vw;
+  
+
+   
+}
+
+
+.AM {
+    font-size: 50px;
+    font-family: "didot";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    color: whitesmoke; 
+    font-weight: 600;
+
+}
+
+
+.header {
+    font-weight: 100px;
+    font-style: italic;
+    align-items: center;
+    justify-content: center;
+
+
+    width: 100vw;
+    height: 10vh;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-family: 'didot';
+    font-weight: 10;
+
+    
+}
+
+
+.header-big {
+    font-weight: 100px;
+    font-style: italic;
+    text-decoration:underline;
+    
+
+    width: 100vw;
+    height: 10vh;
+    color: whitesmoke;
+    font-size: 40px; 
+    font-family: 'didot';
+    font-style: unset;
+    font-weight: 10;
+    font-weight: 400;
+}
+
+.box-one {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #6D5A72; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-two {
+
+
+
+
+
+
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+  
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #34240B;
+    font-size: 25px; 
+    background-color: #ECB8A5; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-three {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #904C77; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+
+.box-four {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #320E3B; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-five {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #C95D63; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-six {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #34240B;
+    font-size: 25px; 
+    background-color: #FFBF69; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-seven {
+    margin: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-align: right;
+    
+    
+   
+
+
+    width: 50vw;
+    height: 85vh;
+    
+    color: #34240B;
+    font-size: 25px; 
+    background-color: #77ACA2; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+img {
+    height: 200px;
+    width: 200px;
+  
+    margin-left: 300px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
